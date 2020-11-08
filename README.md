@@ -18,4 +18,4 @@ Website refactor 11-07-2020
 
 Website Screenshot:
 
-![alt text](https://github.com/leon-luna-ray/hw01-code-refactor/blob/main/assets/images/screencapture-file-Users-ray-code-uofo-por-fsf-pt-10git-2020-u-c-homework-hw01-code-refactor-index-html-2020-11-07-19_34_21.png)
+![Updated Site Screenshot](https://github.com/leon-luna-ray/hw01-code-refactor/blob/main/assets/images/screencapture-file-Users-ray-code-uofo-por-fsf-pt-10-2020-u-c-homework-hw01-code-refactor-index-html-2020-11-07-19_34_21.png)
